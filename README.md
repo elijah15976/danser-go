@@ -79,3 +79,5 @@ Example:
 Original game was made by Dean Herbert ([@ppy](https://github.com/ppy)) and [osu!](https://osu.ppy.sh/) community.
 
 Map assets were made by [Haskorion](https://osu.ppy.sh/users/3252321): [Redd Glass HD](https://osu.ppy.sh/community/forums/topics/211396)
+
+[![Run on Repl.it](https://repl.it/badge/github/Wieku/danser-go)](https://repl.it/github/Wieku/danser-go)
